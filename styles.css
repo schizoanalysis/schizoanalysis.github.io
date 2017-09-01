@@ -1,6 +1,6 @@
 body {
   background: red;
-  font-family: "Arial";
+  font: 15px arial, sans-serif;
 }
 
 a:visited {
