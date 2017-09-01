@@ -3,5 +3,9 @@ body {
 }
 
 a:visited {
-  color: black
+  color: #000000
+}
+
+a:link {
+  color: #FFFFFF
 }
