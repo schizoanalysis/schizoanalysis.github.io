@@ -1,3 +1,7 @@
 body {
   background: red
 }
+
+:link, :visited {
+  color: black
+}
