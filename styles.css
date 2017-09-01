@@ -2,6 +2,6 @@ body {
   background: red
 }
 
-select:visited select:link {
+a:visited {
   color: black
 }
