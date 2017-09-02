@@ -14,15 +14,15 @@ a {
   color: red;
 }
 
-a.one:link{
+.one:link{
   text-decoration: none;
 }
 
-a.one:visited{
+.one:visited{
   text-decoration: none;
 }
 
-a.one:hover {
+.one:hover {
   text-decoration: underline;
 }
 
