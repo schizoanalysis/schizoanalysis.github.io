@@ -40,8 +40,13 @@ img {
 
 @media only screen and (min-width: 400px) {
   img {
-    width: 40%
+    width: 40%;
   }
+}
+
+.two {
+  max-width: 100%;
+  height: auto;
 }
 
 img.img{
