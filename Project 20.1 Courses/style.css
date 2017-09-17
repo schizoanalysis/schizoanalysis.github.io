@@ -2,6 +2,7 @@ header {
   background-color: black;
   color: red;
   text-align: center;
+  width: auto;
 }
 
 body {
@@ -23,6 +24,15 @@ a {
 }
 
 .one:hover {
+  text-decoration: underline;
+}
+
+a.seven {
+  color: black;
+  text-decoration: none;
+}
+
+.seven:hover {
   text-decoration: underline;
 }
 
@@ -51,4 +61,38 @@ img {
 
 img.img{
   filter: invert(100%);
+}
+
+.tableimage {
+  width: 70%;
+  padding-top: 15px;
+}
+
+.classtext {
+  background-color: black;
+  color: red;
+  padding: 5%;
+  text-align: left;
+}
+
+.course {
+
+}
+
+.div_home {
+  text-align: left;
+  text-indent: 4%;
+}
+
+td.pro {
+    width: 500px;
+}
+
+home {
+
+}
+
+.RL {
+  list-style: none;
+  padding-left: 0;
 }
